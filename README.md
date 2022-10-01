@@ -1,4 +1,4 @@
-# Analysis-Alberta-Health-Services
+# Analysis of Alberta Health Services
 
 ## Primary Care Network (AHS Zone: Calgary)
 ![PCN](https://user-images.githubusercontent.com/114383545/193398569-f230840b-6a4f-4681-b2e9-bd7a92f208f9.jpg)
