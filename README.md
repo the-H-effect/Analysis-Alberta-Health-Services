@@ -28,16 +28,16 @@
 ![Physician Specialty](https://user-images.githubusercontent.com/114383545/193398855-5d821a65-2994-4912-9c9c-3bd054a84674.jpg)
 
 
-## Physician Specialty (General Physician)
+### Physician Specialty (General Physician)
 ![Physician Specialty GP](https://user-images.githubusercontent.com/114383545/193398914-af4d76f9-f350-46b1-9ea8-2c1f8c408dd2.jpg)
 
-## Physician Specialty (Internal Medicine)
+### Physician Specialty (Internal Medicine)
 ![Physician Specialty INTERNAL MEDICINE](https://user-images.githubusercontent.com/114383545/193398930-9c119246-bf91-4def-be4a-68a357c61561.jpg)
 
 
-## Physician Specialty (Paediatrics)
+### Physician Specialty (Paediatrics)
 ![Physician Specialty Paediatrics](https://user-images.githubusercontent.com/114383545/193398945-defe94c2-ec54-46c3-9685-70bf1945325e.jpg)
 
 
-## Physician Specialty (Psychiatry)
+### Physician Specialty (Psychiatry)
 ![Physician Specialty Psychiatry](https://user-images.githubusercontent.com/114383545/193398965-dd2211c7-e028-4fb2-9022-5f707250a54a.jpg)
