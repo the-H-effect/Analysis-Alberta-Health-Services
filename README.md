@@ -64,19 +64,30 @@ There are 30 Physcian Specialty under AHS, from Anaesthesiology to Urology as gi
 ![Physician Specialty](https://user-images.githubusercontent.com/114383545/193398855-5d821a65-2994-4912-9c9c-3bd054a84674.jpg)
 
 
-### Physician Specialty (General Physician)
+### Physician Specialty (General Physician GP)
+1. Cumulative Total GP in Alberta stands at over 60,000 for a 10 Year data history from 2011 to 2021.
+2. Edmonton and Calgary Zones accounts for more than 2/3 of the total GP in Alberta.
+3. For the last 3 years, AHS has approximately 7,000 General and Family physicians.
 ![Physician Specialty GP](https://user-images.githubusercontent.com/114383545/193398914-af4d76f9-f350-46b1-9ea8-2c1f8c408dd2.jpg)
 
 ### Physician Specialty (Internal Medicine)
+1. Internal Medicine Specialty is made up of 6 sub categories from cardiology to infectious diseases.
+2. AHS has a strength of 1,000 Internal Medicine Physician's for the last 3 years (2019 - 2021)
 ![Physician Specialty INTERNAL MEDICINE](https://user-images.githubusercontent.com/114383545/193398930-9c119246-bf91-4def-be4a-68a357c61561.jpg)
 
 
 ### Physician Specialty (Paediatrics)
+1. For the last 5 years, Calgary Zone has had more than 50% of Paediatricians in AHS. In 2021, the number stood at 254, compared to all other AHS Zones with 206 Paediatrics Physician.
+2. Cumulative Total of Paediatrics Physician for the year 2011 - 2021 is 4,702.
 ![Physician Specialty Paediatrics](https://user-images.githubusercontent.com/114383545/193398945-defe94c2-ec54-46c3-9685-70bf1945325e.jpg)
 
 
 ### Physician Specialty (Psychiatry)
+1. For Psychiatrist in AHS, Calgary and Edmonton Zones have a combined strength of 77%.
 ![Physician Specialty Psychiatry](https://user-images.githubusercontent.com/114383545/193398965-dd2211c7-e028-4fb2-9022-5f707250a54a.jpg)
 
 
 ## Recommendation & Conclusion 
+Valuable Insights from the analysis can be used to check that number of Primary Care providers are commensurate to the number of patients enrolled to prevent overcrowding of facilities, and ensure that patients receive the right amount of care at the right time.
+
+AHS can use data analytics insights to plan preventive measures and target specific genders and/or AHS Zones that are prone to certain disease conditions and health challenges.
