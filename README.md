@@ -1,5 +1,5 @@
 # Analysis of Alberta Health Services
-#### A Data Visualization Project using PowerBI
+#### _A Data Visualization Project using PowerBI_
 
 ## Business Understanding: Introduction
 Datasets used can be found [here](https://open.alberta.ca/opendata) and here. As with any data analytics or business intelligence project, a good business understanding of the industry domain is crucial before embarking on any Data Understanding, Preparation, Modeling and Evaluation steps.
