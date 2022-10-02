@@ -1,14 +1,18 @@
 # Analysis of Alberta Health Services
+### A Data Visualization Project using PowerBI
 
-There are 5 zones under Alberta Health Services AHS
-* South (Zone 1) 
-* Calgary (Zone 2)
-* Central (Zone 3)
-* Edmonton (Zone 4)
-* North (Zone 5)
+## Business Understanding: Introduction
+Datasets used can be found here and here. As with any data analytics or business intelligence project, a good business understanding of the industry domain is crucial before embarking on any Data Understanding, Preparation, Modeling and Evaluation steps.
 
-Visualizations were created using PowerBI. The 3 PowerBI dashboards explores 3 teams; the Primary Care Network (PCN) under each AHS Zone, the Top 5 Cause of Death in Alberta, and the 20 plus different Physcian Specialty.
-For each dashboard, filters can be used to select PCN, the Year, or the Physcian specialty of interest. 
+In Understanding the Datasets and relationships, I identified the following main concepts:
+* There are 5 zones under Alberta Health Services AHS; **South (Zone 1), Calgary (Zone 2), Central (Zone 3), Edmonton (Zone 4) and North (Zone 5).**
+
+* Each AHS Zone is made up of **Primary Care Networks (PCN)**, and each PCN has a number of Primary Care providers.
+
+* AHS has up to **30 Physician Specialty** in addition to General Physicians/ Family Physicians.
+
+After a comprehensive business/Data Understanding, followed by data cleaning and manipulation, I created Visualizations using PowerBI. The 3 PowerBI dashboards created explores 3 main teams; the Primary Care Network (PCN) under each AHS Zone, the Top 5 Cause of Death in Alberta, and the 20 plus different Physcian Specialty.
+*For each PowerBI dashboard, filters can be used to select PCN, the Year, or the Physcian specialty of interest.* 
 
 ## Insight 1: Primary Care Network (PCN)
 ### AHS Zone: Calgary
