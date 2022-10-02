@@ -44,8 +44,8 @@ AHS Zone South is made up of 2 PCN, Chinook and Palliser, and comparisons are fa
 
 ## Insight 2: Top 5 Cause of Death
 ### Historical 20-Years
-1. Based on a 20-Year historic data (2001 - 2021), the Top leading cause of death in Alberta include organic dementia (brain/Cerebral dysfunction), acute myocardial infarction (heart attack) and chronic obstructive pulmonary disease COPD (long-term long diseases).
-2. Other health indicators such as BMI showed that Males had a higher prevalence of over weight and obesity, compared to females.
+1. Based on a 20-Year historic data (2001 - 2021), the Top leading cause of death in Alberta include organic dementia (brain/Cerebral dysfunction), acute myocardial infarction (heart attack) and chronic obstructive pulmonary disease COPD (long-term lung diseases).
+2. One health indicator; BMI, showed that Males had a higher prevalence of over weight and obesity, compared to females.
 3. Other health indicators showed that females have higher prevalence to back problems, arthritis, high blood pressure, migraine, asthma, bowel disorder, urinary incontinence, ulcers and cancers, than males.
 4. Heart disease is the only health indicator where males showed a higher prevalence than females.
 5. Insight from the table in the visual, showed that some AHS zones have higher prevalence to health disease and conditions than other Zones. 
@@ -60,7 +60,7 @@ I was surprised to see that for the Year 2021, Organic dementia was a higher con
 
 ## Insight 3: Physician Specialty 
 ### Physician Specialty
-There are 30 Physcian Specialty under AHS, from Anaesthology to Urology as given by the table in the right hand side of the visual.
+There are 30 Physcian Specialty under AHS, from Anaesthesiology to Urology as given by the table in the right hand side of the visual.
 ![Physician Specialty](https://user-images.githubusercontent.com/114383545/193398855-5d821a65-2994-4912-9c9c-3bd054a84674.jpg)
 
 
