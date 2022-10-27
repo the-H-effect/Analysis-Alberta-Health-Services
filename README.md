@@ -2,7 +2,7 @@
 #### _A Data Visualization Project using PowerBI_
 
 ## Business Understanding: Introduction
-Datasets used can be found [here](https://open.alberta.ca/opendata) and here. As with any data analytics or business intelligence project, a good business understanding of the industry domain is crucial before embarking on any Data Understanding, Preparation, Modeling and Evaluation steps.
+Datasets used can be found [here](https://open.alberta.ca/opendata). As with any data analytics or business intelligence project, a good business understanding of the industry domain is crucial before embarking on any Data Understanding, Preparation, Modeling and Evaluation steps.
 
 In Understanding the Datasets and relationships, I identified the following main concepts:
 * There are 5 zones under Alberta Health Services AHS; **South (Zone 1), Calgary (Zone 2), Central (Zone 3), Edmonton (Zone 4) and North (Zone 5).**
